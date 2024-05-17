@@ -1,0 +1,6 @@
+[submodule "lib/vspeed-core-smart-contracts"]
+	path = lib/vspeed-core-smart-contracts
+	url = 
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = 
