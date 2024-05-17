@@ -27,7 +27,7 @@ From the root directory run:
 just install
 ```
 
-to install the [vIBC core smart contracts](https://github.com/subzero0129/speedy.git) as a dependency.
+to install the (https://github.com/subzero0129/speedy.git) as a dependency.
 
 Additionally Hardhat will be installed as a dev dependency with some useful plugins. Check `package.json` for an exhaustive list.
 
